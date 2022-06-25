@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-25T22:37:33 BST" name="testSuite" finished-at="2022-06-25T22:37:37 BST" duration-ms="4425">
+    <groups>
+    </groups>
+    <test started-at="2022-06-25T22:37:33 BST" name="test" finished-at="2022-06-25T22:37:37 BST" duration-ms="4425">
+      <class name="com.test.my.learning.Test2">
+        <test-method signature="runEdge()[pri:0, instance:com.test.my.learning.Test2@3c407114]" started-at="2022-06-25T22:37:33 BST" name="runEdge" finished-at="2022-06-25T22:37:37 BST" duration-ms="4399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runEdge -->
+      </class> <!-- com.test.my.learning.Test2 -->
+      <class name="com.test.my.learning.Test1">
+        <test-method signature="runChrome()[pri:0, instance:com.test.my.learning.Test1@3911c2a7]" started-at="2022-06-25T22:37:33 BST" name="runChrome" finished-at="2022-06-25T22:37:36 BST" duration-ms="3268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runChrome -->
+      </class> <!-- com.test.my.learning.Test1 -->
+    </test> <!-- test -->
+  </suite> <!-- testSuite -->
+</testng-results>

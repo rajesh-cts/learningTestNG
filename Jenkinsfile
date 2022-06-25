@@ -18,7 +18,7 @@ pipeline
 }
     
 }
-tage ('Test')
+stage ('Test')
     {
     steps
     {
